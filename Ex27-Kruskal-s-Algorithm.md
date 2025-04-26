@@ -28,9 +28,6 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 5. Output Final Result  
    - Print the total cost of the MST using `printf("Minimum cost = %d\n", mincost);`.
 
----
-
-Want the full C code version for this too?
 
 ## Program:
 ```
